@@ -78,3 +78,4 @@ if __name__ == "__main__":
     Server_code_update.getDirectory(sftp)
     Server_code_update.uploadIndex(sftp)
     s.close()
+# **********002
